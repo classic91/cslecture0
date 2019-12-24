@@ -1,5 +1,4 @@
 # cslecture0
-<!DOCTYPE html>
 <html>
     <head>
        <title>My Webpage!</title>
